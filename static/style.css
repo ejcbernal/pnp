@@ -1,0 +1,18 @@
+body{
+    background-color:#141d26;
+}
+
+.charlie{ 
+    padding-top: 1.5%; padding-right: 12%;
+    background-color:#141d26;
+    margin:0;
+    height:100%;
+    width:200px;
+}
+.wrapper{
+    padding-left:10px;
+   
+}
+.style1 .card{
+    background-color:#243447;
+}
